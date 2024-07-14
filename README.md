@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Wijdan, a Software Engineer from Saudi Arabia specializing in iOS development and the creator of the Vat KSA App. I am passionate about crafting diverse innovative applications and mentoring aspiring iOS developers. I thoroughly enjoy exploring new languages and frameworks and continuously expanding my skills to stay at the forefront of technology.
+I’m Wijdan, a Software Engineer from Saudi Arabia specializing in iOS development and the creator of the Vat KSA App. I am passionate about creating iOS applications and mentoring aspiring iOS developers. I  enjoy exploring new languages and frameworks and expanding my skills to stay up to date with the latest technologies.
 
 ### Published Apps
 Vat KSA [App Store](https://apps.apple.com/sa/app/vat-ksa/id6465700231).
