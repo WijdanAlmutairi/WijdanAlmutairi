@@ -1,4 +1,4 @@
-![Alt text](githubimage.png)
+![Alt text](githubimage.jpg)
 
 ## Wijdan Almutairi
 
