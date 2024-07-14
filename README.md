@@ -1,4 +1,4 @@
-## Hi there I'm Wijdan Almutairi 👋
+## Wijdan Almutairi
 
 I’m Wijdan, a Software Engineer from Saudi Arabia specializing in iOS development and the creator of the Vat KSA App. I am passionate about creating iOS applications and mentoring aspiring iOS developers. I  enjoy exploring new languages and frameworks and expanding my skills to stay up to date with the latest technologies.
 
