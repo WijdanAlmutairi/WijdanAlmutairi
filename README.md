@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**WijdanAlmutairi/WijdanAlmutairi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Wijdan Almutairi
 
-Here are some ideas to get you started:
+I am Wijdan, an iOS developer from Saudi Arabia who created the Vat KSA app on the app store. 
+I am passionate about building iOS apps in Arabic and English, 
+and I am currently interested in Freelancing and mentoring aspiring iOS developers. 
+Finally, I  enjoy exploring new languages and frameworks. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Published Apps 
+Vat KSA [App Store](https://apps.apple.com/sa/app/vat-ksa/id6465700231)
+
+## Skills and Experience 
+- iOS (SwiftUI)
+- Swift
+- UX and UI (Figma)
+
+
+
